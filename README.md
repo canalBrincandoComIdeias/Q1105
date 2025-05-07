@@ -3,7 +3,7 @@
 
 Projeto do Vídeo Q1105 Série **_Tutorial Maker_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/lzcm3ydn4Y0)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/GhFHkExAWao)
 
 - Confira a série completa na Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMfSiij6-3jm6nDhk7XdAp0p)
 
